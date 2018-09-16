@@ -1,3 +1,18 @@
+/** 
+ *  @file    graphics-final -project-with-log.cpp
+ *  @author  Ashrafuzzaman Sujan (softengrsujan)
+ *  @supervisor Asso. Prof. Mst. Jahanara Akhtar
+ *  @date    20/08/2018 
+ *  @version 1.0 
+ *  
+ *  @brief DIU-CSE E45th, Lab final, Create animated bangla fonts
+ *
+ *  @section DESCRIPTION
+ *  
+ *  I have used different types of graphics algorith(like as: ellipse, circle,line etc) 
+ *  to developed this program. 
+ *
+ */
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
